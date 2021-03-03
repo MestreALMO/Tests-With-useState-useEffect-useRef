@@ -43,28 +43,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+project done using the guide from: https://dev.to/wpreble1/typescript-with-react-functional-components-4c69
+</br>
+this project had the proposal of sharpening my skills.
+
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/Tests-With-useState-useEffect-useRef/blob/master/_README.md/app.gif?raw=true" />
 </p>
-
-A project created in ReactJS with TS that already includes, the following items to accelerate the production: 
-* Yarn
-* EditorConfig;
-* ESLint;
-* Prettier;
-
-The following item so we can have routes and have access to create multiple pages
-* React Router DOM;
-
-
-### Built With
-
-This section should list any major tools that you built your project using.
-* [VSCode](https://code.visualstudio.com/)
-* [React](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Yarn](https://yarnpkg.com/)
-
 
 
 <!-- GETTING STARTED -->
@@ -131,10 +116,10 @@ With that the app will be running!!!
 
 ## Usage
 
-Here is a area to explain how the project works. In this case is a project to accelerate other projects.
+Just click in the buttons to check the effects and see the code to see how it was done.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/Tests-With-useState-useEffect-useRef/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
 </br>
