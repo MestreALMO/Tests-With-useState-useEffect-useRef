@@ -48,7 +48,7 @@ project done using the guide from: https://dev.to/wpreble1/typescript-with-react
 this project had the proposal of sharpening my skills.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/Tests-With-useState-useEffect-useRef/blob/master/_README.md/app.gif?raw=true" />
+  <img src="_README.md/app.gif">
 </p>
 
 
@@ -119,7 +119,7 @@ With that the app will be running!!!
 Just click in the buttons to check the effects and see the code to see how it was done.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/Tests-With-useState-useEffect-useRef/blob/master/_README.md/app.gif?raw=true" />
+  <img src="_README.md/app.gif">
 </p>
 
 </br>
