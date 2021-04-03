@@ -5,10 +5,10 @@
     <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">React with TS template</h3>
+  <h3 align="center">Testing React hooks</h3>
 
   <p align="center">
-    An awesome React template to jumpstart your projects!
+    putting hooks to use and seeing the results
     <br />
     <br />
   </p>
